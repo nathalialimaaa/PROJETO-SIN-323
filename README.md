@@ -21,3 +21,8 @@ O objetivo principal é classificar imagens de folhas entre saudáveis e infecta
 2. **Treinamento da Rede Neural:** Ajuste da arquitetura MobileNetV2 para classificação multiclasse com congelamento das camadas de extração de características.
 3. **Exportação do Modelo:** Geração do arquivo compilado `agrocheck_melhor.keras`.
 4. **Interface Interativa:** Aplicação web em Streamlit para envio (*upload*) de fotos e exibição do diagnóstico em tempo real.
+
+
+DataSET
+link google drive :
+https://drive.google.com/file/d/1M23BCLa4tV-Un59hkpwE4et_H9knNgKz/view?usp=sharing
